@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{E89FEB0E-FB09-47EE-A71A-436217BC382A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication", "WebApplication\WebApplication.csproj", "{E89FEB0E-FB09-47EE-A71A-436217BC382A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank.Request", "Tank.Request\Tank.Request.csproj", "{DAA38008-9462-4983-89F8-7282365A2CC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E89FEB0E-FB09-47EE-A71A-436217BC382A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E89FEB0E-FB09-47EE-A71A-436217BC382A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E89FEB0E-FB09-47EE-A71A-436217BC382A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA38008-9462-4983-89F8-7282365A2CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA38008-9462-4983-89F8-7282365A2CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA38008-9462-4983-89F8-7282365A2CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA38008-9462-4983-89F8-7282365A2CC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
